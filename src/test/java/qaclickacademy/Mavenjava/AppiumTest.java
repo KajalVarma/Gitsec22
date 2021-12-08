@@ -16,6 +16,12 @@ public class AppiumTest {
         System.out.println("IOSApps");
     }
 
+    @Test
+    public void NewTest() {
+        System.out.println("new test added section 22");
+    }
+
+
 
 
 }
